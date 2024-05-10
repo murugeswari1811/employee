@@ -9,7 +9,8 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #888; /* Color of the scrollbar thumb */
+  background: #888;
+  height:300px; /* Color of the scrollbar thumb */
 }
 
 ::-webkit-scrollbar-thumb:hover {
@@ -23,5 +24,6 @@
   overflow: auto; /* Enable scrolling */
   scrollbar-width: none; /* Hide scrollbar in Firefox */
 }
+
 
 
